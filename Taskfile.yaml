@@ -5,7 +5,6 @@ tasks:
   pre-reqs:
     - sudo apt install hugo git -y
   default:
-    deps: [pre-reqs]
     cmds:
       - hugo server -D
     silent: false
