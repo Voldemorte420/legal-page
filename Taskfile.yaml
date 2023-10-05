@@ -8,7 +8,7 @@ tasks:
   default:
     cmds:
       - git submodule update --recursive --remote
-      - hugo server -D
+      - hugo server -D --disableFastRender --enableGitInfo
     silent: false
   commit:
     cmds:
