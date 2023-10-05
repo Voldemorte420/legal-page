@@ -3,9 +3,11 @@
 version: '3'
 tasks:
   pre-reqs:
+    - git submodule update --init --recursive
     - sudo apt install hugo git -y
   default:
     cmds:
+      - git submodule update --recursive --remote
       - hugo server -D
     silent: false
   commit:
