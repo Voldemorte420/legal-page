@@ -6,3 +6,5 @@ Run w/
 ```shell
 hugo server -D
 ```
+
+Uses theme at https://github.com/zjedi/hugo-scroll
