@@ -1,6 +1,6 @@
-baseURL = 'https://code.lemmy.world/'
+baseURL = 'https://legal.lemmy.world/'
 languageCode = 'en-us'
-title = 'Lemmy World GitHub Landing Page'
+title = 'Lemmy World Legal Terms'
 
 
 # This is a "one page"-website, so we do not need these kinds of pages...
