@@ -8,4 +8,4 @@ weight: 3
 
 **3.1:** This document contains essential knowledge regarding your rights and obligations, as well as conditions, limitations and exclusions that apply to your use of and access to Lemmy World.
 
-**3.2**: Lemmy.World is a content-aggregation social platform operated by our volunteer team, which runs an instance of the Lemmy software. Learn more about Lemmy [HERE](<https://en.wikipedia.org/wiki/Lemmy_(social_network)>.
+**3.2**: Lemmy.World is a content-aggregation social platform operated by our volunteer team, which runs an instance of the Lemmy software. Learn more about Lemmy [HERE](https://en.wikipedia.org/wiki/Lemmy_(social_network)).
