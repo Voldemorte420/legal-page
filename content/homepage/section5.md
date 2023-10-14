@@ -1,5 +1,5 @@
 ---
-title: "Content Policy and Prohibited Activities"
+title: "Content Policy"
 weight: 5
 ---
 
@@ -11,4 +11,4 @@ weight: 5
 - **5\.0.4:** Do not post illegal content of any type. Do not engage in any activity which may encourage, facilitate or provide access to illegal transactions. Do not share or encourage the sharing of abusive or sexually suggestive content involving minors. Any violent or otherwise inappropriate behavior involving a minor will also always be strictly prohibited.
 - **5\.0.5:**  Your participation in individual communities will only be acceptable on the condition that you abide by their rules. Always post compliant content that uphold the rules of the individual community and the website, and is of personal interest to you. Do not engage in content manipulation such as posting of spam content, vote manipulation through using several user accounts or consistently downvoting an user. Vote for the content, not for the person.
 
-**5\.2:** The content provided on LW is not necessarily factually true, and hosting it does not mean agreeing, supporting or encouraging it. We only require all content fully comply with the Terms of Service and any other documents that are mentioned and linked to in this document.
+**5\.2:** The content provided on Lemmy.World is not necessarily factually true, and hosting it does not mean agreeing, supporting or encouraging it. We only require all content fully comply with the Terms of Service and any other documents that are mentioned and linked to in this document.
