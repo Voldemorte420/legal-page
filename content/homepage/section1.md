@@ -14,9 +14,5 @@ weight: 1
 **1\.1**: Learn more about Lemmy.World \[here\]. Learn more about Lemmy \[here\].
 ​
 
-*__EFFECTIVE FROM:__* {{ .Page.Date }}
-​
-{{< latest-changes >}}
-
-__LAST REVISED:__ *See date in footer*
+__LAST REVISED:__ {{< commit-date >}}
 
