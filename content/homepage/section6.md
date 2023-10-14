@@ -3,8 +3,6 @@ title: "Our Rights"
 weight: 6
 ---
 
-<!-- *This section lays out the rights we reserve, and what may happen in the case the Terms of Service is violated.* -->
-
 **6\.0**: You are solely and entirely responsible for your use of the website and your computer, internet, and data security.
 
 **6\.1:** You waive Lemmy.World and its parent, subsidiaries, affiliates, and all their respective staff, representatives, service providers, contractors, licensors, licensees, and successors from any and all claims resulting from any action taken by Lemmy.World, and any of the foregoing parties relating to any investigations by either us or by law enforcement authorities.

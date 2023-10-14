@@ -3,8 +3,6 @@ title: "Regarding This Document"
 weight: 3
 ---
 
-​
-<!-- *This section contains important information about the document itself and lemmy.world.* -->
 
 **3\.0**: The Terms of Service provided by us, together with any additional documents and/or terms they actively adopt through referencing, collectively constitute the legal document this page serves to provide, and is entered into by and between Lemmy.World and all its users (you).
 

@@ -3,7 +3,6 @@ title: "User Responsibilities"
 weight: 4
 ---
 
-<!-- *This section contains the responsibilities all active Lemmy.World users are expected and required to follow:* -->
 
 **4\.0**: By agreeing to this section of the document, you accept that:
 
