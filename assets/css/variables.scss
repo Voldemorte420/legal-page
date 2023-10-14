@@ -7,11 +7,11 @@
     --highlight-contrast: var(--cover-text-color);
     /*iverse colors used for :hover */
     --highlight-inverse: var(--cover-text-color);
-    --highlight-inverse-contrast: white;
+    --highlight-inverse-contrast: ffffff;
 
     /* visual guard around title and description, when the feature is enabled */
-    --cover-title-and-description-guard-bg-color: rgba(196, 196, 196, 0.6);
-    --cover-title-text-shadow: white 0px 0px 7px;
+    --cover-title-and-description-guard-bg-color: rgba(255, 255, 255, 0.683);
+    --cover-title-text-shadow: rgba(255, 255, 255, 0) 0px 0px 7px;
 
 
     /* === sticky top/left navigation menus === */
@@ -20,14 +20,14 @@
 
     /* === Alternating content (post) sections  === */
     /* Light section - text color */
-    --section-light-text-color: #545454;
+    --section-light-text-color: #303030;
     /* Light section - background color */
-    --section-light-bg-color: #cccccc;
+    --section-light-bg-color: #e5e5e5;
 
     /* Dark section - text color */
     --section-dark-text-color: var(--section-light-bg-color);
     /* Dark section - background color */
-    --section-dark-bg-color: #272727;
+    --section-dark-bg-color: #170C3B;
 
     /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
     --section-uni-quote: grey;
@@ -39,8 +39,8 @@
     --single-page-bg-color: var(--section-light-bg-color);
 
     /* === Footer === */
-    --footer-color-background: #323232;
-    --footer-color: #999999;
+    --footer-color-background: #0e0722;
+    --footer-color: #ffffff;
 
     /* === Lists === */
     /* define list element for unnumbered lists, leave empty for default list element */

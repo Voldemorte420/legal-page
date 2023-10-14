@@ -1,24 +1,22 @@
 ---
-title: "First Section"
-header_menu_title: "SECTION2"
-navigation_menu_title: "SECTION2 NAVI"
-weight: 2
-header_menu: true
+title: "Introduction"
+weight: 1
 ---
-Until recently, the prevailing view assumed lorem ipsum was born as a nonsense text. “It's not Latin, though it looks like it, and it actually says nothing,” Before & After magazine answered a curious reader, “Its ‘words’ loosely approximate the frequency with which letters occur in English, which is why at a glance it looks pretty real.”
+​
+<!-- *This section of the document contains an introduction of lemmy.world and the team behind it, and what our Terms of Service covers.* -->
+​
+**1\.0**: Greetings, the good people of the world! This Terms of Service applies to your access to and active use of lemmy.world (“**Lemmy.World**,” **“we**,” “**us**,” or “**LW**”).
+​
+- **1\.0.0**: Lemmy.World is intended to host and power online communities from all over the world, and to be a place reliable for your casual entertainment. As sweet as this is, it doesn’t keep us from having the need to set basic rules.
+- **1\.0.1**:  Read our Terms of Service carefully before using this website (“**the website**"). These Terms of Service ("**the** **Terms of Service**" or “**the document**”) govern your access to and use of the website. The website is available for your use only on the condition that you agree to the Terms of Service set forth above and below. If you do not agree with all of the Terms of Service, then do not access or use lemmy.world. By accessing or using the website, you and the entity you are authorized to represent (“**user**” "**you**" or "**your**") signify your agreement to be bound by the Terms of Service.
+​
 
-As Cicero would put it, “Um, not so fast.”
+**1\.1**: Learn more about Lemmy.World \[here\]. Learn more about Lemmy \[here\].
+​
 
-The placeholder text, beginning with the line “Lorem ipsum dolor sit amet, consectetur adipiscing elit”, looks like Latin because in its youth, centuries ago, it was Latin.
+*__EFFECTIVE FROM:__* {{ .Page.Date }}
+​
+{{< latest-changes >}}
 
-Richard McClintock, a Latin scholar from Hampden-Sydney College, is credited with discovering the source behind the ubiquitous filler text. In seeing a sample of lorem ipsum, his interest was piqued by consectetur—a genuine, albeit rare, Latin word. Consulting a Latin dictionary led McClintock to a passage from De Finibus Bonorum et Malorum (“On the Extremes of Good and Evil”), a first-century B.C. text from the Roman philosopher Cicero.
+__LAST REVISED:__ *See date in footer*
 
-In particular, the garbled words of lorem ipsum bear an unmistakable resemblance to sections 1.10.32–33 of Cicero's work, with the most notable passage excerpted below:
-
-    “Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.”
-
-A 1914 English translation by Harris Rackham reads:
-
-    “Nor is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but occasionally circumstances occur in which toil and pain can procure him some great pleasure.”
-
-McClintock's eye for detail certainly helped narrow the whereabouts of lorem ipsum's origin, however, the “how and when” still remain something of a mystery, with competing theories and timelines.
