@@ -1,5 +1,5 @@
 ---
-title: "Contact Information"
+title: "Contact Information & Report Harmful Content"
 weight: 9
 ---
 
