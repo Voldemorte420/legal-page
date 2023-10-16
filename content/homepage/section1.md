@@ -1,6 +1,8 @@
 ---
 title: "Introduction"
 weight: 1
+header_menu: true
+
 ---
 ​​
 **1.0**: Greetings, the good people of the world! This Terms of Service applies to your access to and active use of Lemmy World (“**Lemmy.World**,” **“we**,” “**us**,” or “**LW**”).
