@@ -4,8 +4,10 @@ weight: 1
 header_menu: true
 
 ---
+
+**LAST REVISED:** {{< commit-date >}}
 ​​
-**1.0**: Greetings, the good people of the world! This Terms of Service applies to your access to and active use of Lemmy World (“**Lemmy.World**,” **“we**,” “**us**,” or “**LW**”).
+**1.0**: Greetings, the good people of the world! This Terms of Service applies to your access to and active use of lemmy.world (“**Lemmy.World**,” **“we**,” “**us**,” or “**LW**”).
 ​
 
 - **1.0.0**: Lemmy.World is intended to host and power online communities from all over the world, and to be a place reliable for your casual entertainment. As sweet as this is, it doesn’t keep us from having the need to set basic rules.
@@ -15,4 +17,3 @@ header_menu: true
 **1.1**: Learn more about Lemmy.World [HERE](<https://team.lemmy.world>).
 ​
 
-**LAST REVISED:** {{< commit-date >}}
