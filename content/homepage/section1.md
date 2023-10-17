@@ -5,7 +5,7 @@ header_menu: true
 
 ---
 
-**LAST REVISED:** {{< commit-date >}}
+**LAST REVISED:** {{< commit-date >}} <br>
 ​​
 **1.0**: Greetings, the good people of the world! This Terms of Service applies to your access to and active use of lemmy.world (“**Lemmy.World**,” **“we**,” “**us**,” or “**LW**”).
 ​
