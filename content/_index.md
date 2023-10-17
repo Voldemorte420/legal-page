@@ -9,7 +9,7 @@ header_use_video: false
 header_logo: images/logo.png
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: Lemmy World #<br> Legal
+header_headline: Lemmy.World #<br> Legal
 header_subheadline:  Terms of Service & <br> Privacy Policy
 
 # Add a 'Go back to top' item to the navigation menu
