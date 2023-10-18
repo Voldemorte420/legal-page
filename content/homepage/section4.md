@@ -12,4 +12,4 @@ weight: 4
 - **4.0.3**: You are responsible for your own experience on the website. While we are looking to provide an entertaining platform, we are not responsible for your individual experience.
 - **4.0.3**: 
 
-**4.1**: No one under 16 years of age is allowed to use or access the website. There may be designated sections of the website that may require you to be older to use them, so please read all notices and any additional terms carefully when you access Lemmy World.
+**4.1**: No one under 16 years of age is allowed to use or access the website. There may be designated sections of the website that may require you to be older to use them, so please read all notices and any additional terms carefully when you access Lemmy.World.
