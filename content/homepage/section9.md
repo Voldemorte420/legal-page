@@ -3,4 +3,4 @@ title: "Contact Information & Report Harmful Content"
 weight: 9
 ---
 
-**9.0**: All questions, issues, concerns and requests regarding Lemmy.World and the Terms of Service may be sent to [info@lemmy.world](mailto:info@lemmy.world).
+**9.0**: All questions, issues, concerns and requests regarding Lemmy.World may be sent to info@lemmy.world. Issues, questions, concerns, requests and demands regarding legal issues and the Terms of Service may be sent to [legal@lemmy.world](mailto:legal@lemmy.world).
