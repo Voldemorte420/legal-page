@@ -1,5 +1,5 @@
 # How to Deploy
-You need to push a git tag to have it publich.
+You need to push a git tag to have it publish.
 
 Use the format vX.X.X ex v1.2.3
 
