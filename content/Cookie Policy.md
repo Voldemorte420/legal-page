@@ -1,6 +1,16 @@
-## Cookie Policy
+---
+title: "Cookie Policy"
+weight: 1
+header_menu_title: "Cookie Policy"
+navigation_menu_title: "Cookie Policy"
+header_menu: true
+detailed_page_homepage_content: false
+---
 
-LAST REVISION: whateverrr
+LAST REVISION: {{< commit-date >}}
+
+
+## Cookie Policy
 
 This Cookie Policy ("**the Cookie Policy**" or "**the document**") explains what cookies are and how they might be used when you visit www.lemmy.world ("**we,**""**us,**" "**our,**" "**the website,**" "**Lemmy.World,**" or "**LW**"). You should read this policy so you can understand what type of cookies we use, or the information we collect using cookies and how that information is used. Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies. For further information on how we use, store and keep your personal data secure, see our Privacy Policy. We do not store sensitive personal information, such as mailing addresses, account passwords, etc. in the cookies we use.
 
