@@ -1,4 +1,14 @@
-**LAST REVISED: TODDDDDDDDDDAAAAAAAAAAAAAAAAAY**
+
+---
+title: "Privacy Policy"
+weight: 1
+header_menu_title: "Privacy Policy"
+navigation_menu_title: "Privacy Policy"
+header_menu: true
+detailed_page_homepage_content: false
+---
+
+LAST REVISION: {{< commit-date >}}
 
 Greetings, the good people of the world! This privacy policy ("**the Privacy Policy**" or "**the document**") for www.lemmy.world ("**we**," "**us**," "**our,**" "**the website,**" "**Lemmy.World,**" or "**LW**") describes how and why we might collect, store, or use your information when you use Lemmy.World, such as when you:
 
