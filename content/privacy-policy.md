@@ -1,6 +1,4 @@
   
-**LAST REVISED: TODDDDDDDDDDAAAAAAAAAAAAAAAAAY**
-
 This privacy notice for Lemmy.World ("**we**," "**us**," or "**our**") describes how and why we might collect, store, use, and/or share ("**process**") your information when you use Lemmy.World and all of its affiliated services (**"the Services"**), such as when you:
 
 - Visit our website at www.lemmy.world, or any website of ours that links to this privacy notice
