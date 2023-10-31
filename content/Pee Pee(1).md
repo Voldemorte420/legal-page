@@ -80,7 +80,7 @@ All personal information that you provide to us must be true, complete, and accu
 
 We automatically collect certain information when you visit, use, or navigate the website. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use Lemmy.World, and other technical information. This information is primarily needed to maintain the security and operation of Lemmy.World, and for our internal analytics and reporting purposes.
 
-Like many other websites, we also collect information through cookies and similar technologies. View our Cookie Policy \[HERE\]
+View our Cookie Policy \[HERE\]
 
 The information we collect includes:
 
