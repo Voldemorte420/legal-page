@@ -7,8 +7,8 @@ weight: 8
 
 **8.1**: Should any section of the Terms of Service be held invalid or unenforceable, that section shall be construed consistent with applicable law and all of the remaining sections shall remain in full force and effect.
 
-**8.2**: The Privacy Policy of Lemmy.World may be found at (link),
+**8.2**: The Privacy Policy of Lemmy.World may be found at "https://legal.lemmy.world/privacy-policy-/".
 
-**8.3**: The Cookie Policy of Lemmy.World may be found at (link),
+**8.3**: The Cookie Policy of Lemmy.World may be found at "https://legal.lemmy.world/cookie-policy/".
 
-**8.4**: The Fair Use Policy of Lemmy.World may be found at (link).
+**8.4**: The Fair Use Policy of Lemmy.World may be found at "https://legal.lemmy.world/fair_use/".
