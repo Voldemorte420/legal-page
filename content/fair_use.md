@@ -59,7 +59,7 @@ Lemmy.World is intended to host and power online communities from all over the w
 
 **-8** Breaking any of these rules will result in a ban for the Bot and, if required, its owner.
 
-**-9** Commands must use the bots mention as prefix, and not a text prefix like !help
+**-9** Commands must use the bots mention as prefix, and not a text prefix like !help.
 
 ## Contact Us
 
