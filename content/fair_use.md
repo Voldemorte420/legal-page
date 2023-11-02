@@ -29,9 +29,9 @@ No one under 18 years of age is allowed to use or access the website.  There may
 
 Lemmy.World is intended to host and power online communities from all over the world, and to be a place reliable for your casual entertainment. As sweet as this is, it doesn’t keep us from having the need to set basic rules.
 
-**Rule 1**: Before using the website, remember you will be interacting with actual,  real people and communities. Lemmy.World is not a place for you to  attack other groups of people. Every one of our users has a right to  browse and interact with the website and all of its contents free of  treatment such as harassment, bullying, racism, discrimination, transphobia, violation of privacy or threats  of violence.
+**Rule 1**: Before using the website, remember you will be interacting with actual, real people and communities. Lemmy.World is not a place for you to attack other groups of people. Every one of our users has a right to  browse and interact with the website and all of its contents free of treatment such as harassment, bullying, racism, discrimination, transphobia, hate speech, violation of privacy or threats of violence.
 
-**Rule 2**:  Always be respectful of the privacy of others Lemmy.World. Never harass or threaten to harass people by revealing personal  information or any type of media. Sharing sensitive information or  media belonging to or depicting a person or entity (other than yourself)  is only allowed on the condition that you have their explicit consent,  or that it is publicly available information or media served in  compliance with our content policy.
+**Rule 2**:  Always be respectful of the privacy of others on Lemmy.World. Never harass or threaten to harass people by revealing personal information or any type of media. Sharing sensitive information or  media belonging to or depicting a person or entity (other than yourself)  is only allowed on the condition that you have their explicit consent,  or that it is publicly available information or media served in compliance with our content policy.
 
 **Rule 3**: You may not engage in any activities that may interfere with the normal use of or access to Lemmy.World.
 
@@ -39,7 +39,7 @@ Lemmy.World is intended to host and power online communities from all over the w
 
 **Rule 5**:  Your participation in individual communities will only be acceptable on  the condition that you abide by their rules. Always post compliant  content that upholds the rules of the individual community and the  website, and is of personal interest to you. Do not engage in content  manipulation such as posting spam content, vote manipulation through  using several user accounts or consistently down-voting a user. Vote for  the content, not for the person.
 
-**Rule 6**:  No visual content depicting executions, murder, suicide, dismemberment,  visible innards, excessive gore, or charred bodies. No content  depicting, promoting or enabling animal abuse. No erotic or otherwise  suggestive media or text content featuring depictions of rape, sexual  assault, or non-consensual violence. All other violent content requires a NSFW tag. Exclusions may include:
+**Rule 6**:  No visual content depicting executions, murder, suicide, dismemberment,  visible innards, excessive gore, or charred bodies. No content  depicting, promoting or enabling animal abuse. No erotic or otherwise  suggestive media or text content featuring depictions of rape, sexual  assault, or non-consensual violence. All other violent content requires a NSFW tag. Exclusions may include: we uphold the right to make exclusions to this rule on a case by case basis, if requested by users and accepted by Lemmy.World. 
 
 ## Rules of Use for Bots
 
