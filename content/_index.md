@@ -1,5 +1,5 @@
 ---
-title: "Lemmy World Legal"
+title: "Lemmy.World Legal & Help Center"
 ---
 
 
