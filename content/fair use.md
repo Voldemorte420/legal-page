@@ -1,15 +1,9 @@
 ---
 title: "Fair Use Policy"
-weight: 1
-header_menu_title: "Fair Use Policy"
-navigation_menu_title: "Fair Use Policy"
-header_menu: true
-detailed_page_homepage_content: false
+weight: 3
 ---
 
-LAST REVISION: {{< commit-date >}}
-
-Greetings, the good people of the world! This Fair Use Policy defines user behaviors which will not be acceptable on the website https://www.lemmy.world  ("we," "us," "our," "the website," "Lemmy.World," or "LW").
+Greetings, the good people of the world! This Fair Use Policy defines user behaviors which will not be acceptable on the website <https://www.lemmy.world>  ("we," "us," "our," "the website," "Lemmy.World," or "LW").
 
 ## User Responsibilities
 
@@ -39,7 +33,7 @@ Lemmy.World is intended to host and power online communities from all over the w
 
 **Rule 5**:  Your participation in individual communities will only be acceptable on  the condition that you abide by their rules. Always post compliant  content that upholds the rules of the individual community and the  website, and is of personal interest to you. Do not engage in content  manipulation such as posting spam content, vote manipulation through  using several user accounts or consistently down-voting a user. Vote for  the content, not for the person.
 
-**Rule 6**:  No visual content depicting executions, murder, suicide, dismemberment,  visible innards, excessive gore, or charred bodies. No content  depicting, promoting or enabling animal abuse. No erotic or otherwise  suggestive media or text content featuring depictions of rape, sexual  assault, or non-consensual violence. All other violent content requires a NSFW tag. Exclusions may include: we uphold the right to make exclusions to this rule on a case by case basis, if requested by users and accepted by Lemmy.World. 
+**Rule 6**:  No visual content depicting executions, murder, suicide, dismemberment,  visible innards, excessive gore, or charred bodies. No content  depicting, promoting or enabling animal abuse. No erotic or otherwise  suggestive media or text content featuring depictions of rape, sexual  assault, or non-consensual violence. All other violent content requires a NSFW tag. Exclusions may include: we uphold the right to make exclusions to this rule on a case by case basis, if requested by users and accepted by Lemmy.World.
 
 ## Rules of Use for Bots
 
@@ -63,6 +57,4 @@ Lemmy.World is intended to host and power online communities from all over the w
 
 ## Contact Us
 
-Any issues, questions, requests, concerns or demands regarding Lemmy.World, the content it includes or the document iself may be sent to info@lemmy.world.
-
-
+Any issues, questions, requests, concerns or demands regarding Lemmy.World, the content it includes or the document iself may be sent to <info@lemmy.world>.

@@ -1,0 +1,17 @@
+#  menu items
+
+
+[[main]]
+  name = "Support"
+  weight = 1
+  url = "https://support.lemmy.world"
+
+[[main]]
+  name = "Linkedin"
+  weight = 2
+  url = "https://www.linkedin.com/company/lemmyworld/"
+
+[[main]]
+  name = "Team"
+  weight = 2
+  url = "https://team.lemmy.world"

@@ -1,23 +1,18 @@
 ---
 title: "Privacy Policy"
-weight: 1
-header_menu_title: "Privacy Policy"
-navigation_menu_title: "Privacy Policy"
-header_menu: true
-detailed_page_homepage_content: false
+weight: 2
+
 ---
 
-LAST REVISION: {{< commit-date >}}
 
-Greetings, the good people of the world! This privacy policy ("**the Privacy Policy**" or "**the document**") for www.lemmy.world ("**we**," "**us**," "**our,**" "**the website,**" "**Lemmy.World,**" or "**LW**") describes how and why we might collect, store, or use your information when you use Lemmy.World, such as when you:
+Greetings, the good people of the world! This privacy policy ("**the Privacy Policy**" or "**the document**") for <www.lemmy.world> ("**we**," "**us**," "**our,**" "**the website,**" "**Lemmy.World,**" or "**LW**") describes how and why we might collect, store, or use your information when you use Lemmy.World, such as when you:
 
-- Visit our website at www.lemmy.world
+- Visit our website at <www.lemmy.world>
 - Engage with us in other related ways, including any events
 
 **Questions or concerns?**
 
-Reading this Privacy Policy will help you understand your privacy rights and choices. If you do not agree with all of our policies and practices, please do not use the website. If you still have any questions or concerns, please contact us at info@lemmy.world.
-
+Reading this Privacy Policy will help you understand your privacy rights and choices. If you do not agree with all of our policies and practices, please do not use the website. If you still have any questions or concerns, please contact us at <info@lemmy.world>.
 
 ## **1\. WHAT INFORMATION DO WE COLLECT?**
 
@@ -60,15 +55,15 @@ We process your personal information for a variety of reasons, depending on how 
 
 ## **3\. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?**
 
-***__If you are located in the EU or UK, this section applies to you.__***
+*****If you are located in the EU or UK, this section applies to you.*****
 
 The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information:
 
-- **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. 
+- **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time.
 - **Legal Obligations.**  We may process your information where we believe it is necessary for  compliance with our legal obligations, such as to cooperate with a law  enforcement body or regulatory agency, exercise or defend our legal  rights, or disclose your information as evidence in litigation in which  we are involved.
 - **Vital Interests.**  We may process your information where we believe it is necessary to  protect your vital interests or the vital interests of a third party,  such as situations involving potential threats to the safety of any  person.
 
-***__If you are located in Canada, this section applies to you.__***
+*****If you are located in Canada, this section applies to you.*****
 
 We may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can withdraw your consent at any time.
 
@@ -106,11 +101,11 @@ We have implemented appropriate and reasonable technical and organizational secu
 
 ## **8\. DO WE COLLECT INFORMATION FROM MINORS? (ToS should change minimum to 18)**
 
-We do not knowingly solicit data from children under 18 years of age. By using the website, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the website. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at info@lemmy.world.
+We do not knowingly solicit data from children under 18 years of age. By using the website, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the website. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at <info@lemmy.world>.
 
 ## **9\. WHAT ARE YOUR PRIVACY RIGHTS?**
 
-In some regions (like the EEA, UK, Switzerland, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; (iv) if applicable, to data portability; and (v) not to be subject to automated decision-making. In certain circumstances, you may also have the right to object to the processing of your personal information. 
+In some regions (like the EEA, UK, Switzerland, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; (iv) if applicable, to data portability; and (v) not to be subject to automated decision-making. In certain circumstances, you may also have the right to object to the processing of your personal information.
 
 We will consider and act upon any request in accordance with applicable data protection laws.
 
@@ -118,7 +113,7 @@ If you are located in the EEA or UK and you believe we are unlawfully processing
 
 If you are located in Switzerland, you may contact the Federal Data Protection and Information Commissioner.
 
-**__Withdrawing your consent:__** If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the "Contact Us" section below.
+****Withdrawing your consent:**** If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the "Contact Us" section below.
 
 However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
@@ -131,11 +126,11 @@ If you would at any time like to review or change the information in your accoun
 
 Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our legal terms and/or comply with applicable legal requirements.
 
-**__Cookies and similar technologies:__**
+****Cookies and similar technologies:****
 
 Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services.
 
-If you have questions or comments about your privacy rights, you may email us at info@lemmy.world. View our [Cookie Policy](https://legal.lemmy.world/cookie-policy/)
+If you have questions or comments about your privacy rights, you may email us at <info@lemmy.world>. View our [Cookie Policy](https://legal.lemmy.world/cookie-policy/)
 
 ## **10\. CONTROLS FOR DO-NOT-TRACK FEATURES**
 
@@ -186,7 +181,6 @@ We have not disclosed, sold, or shared any personal information to third parties
 
 ## **12\. DO OTHER REGIONS HAVE SPECIFIC PRIVACY RIGHTS?**
 
-
 **Australia** **and** **New Zealand**
 
 We collect and process your personal information under the obligations and conditions set by Australia's Privacy Act 1988 and New Zealand's Privacy Act 2020 (Privacy Act).
@@ -202,7 +196,7 @@ If you do not wish to provide the personal information necessary to fulfill thei
 
 At any time, you have the right to request access to or correction of your personal information. You can make such a request by contacting us by using the contact details provided in the section "HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?"
 
-If you believe we are unlawfully processing your personal information, you have the right to submit a complaint about a breach of the Australian Privacy Principles to the Office of the Australian Information[ Commissioner](https://www.oaic.gov.au/privacy/privacy-complaints/lodge-a-privacy-complaint-with-us) and a breach of New Zealand's Privacy Principles to the Office of New Zealand Privacy Commissioner.
+If you believe we are unlawfully processing your personal information, you have the right to submit a complaint about a breach of the Australian Privacy Principles to the Office of the Australian Information[Commissioner](https://www.oaic.gov.au/privacy/privacy-complaints/lodge-a-privacy-complaint-with-us) and a breach of New Zealand's Privacy Principles to the Office of New Zealand Privacy Commissioner.
 
 **Republic of South Africa**
 
@@ -222,4 +216,4 @@ We may update this privacy notice from time to time. The updated version will be
 
 ## **14\. HOW CAN YOU CONTACT US ABOUT THE PRIVACY POLICY?**
 
-You have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, or if you have questions or comments about this privacy policy, you may e-mail us at info@lemmy.world.
+You have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, or if you have questions or comments about this privacy policy, you may e-mail us at <info@lemmy.world>.
