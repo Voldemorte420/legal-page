@@ -1,20 +1,26 @@
 ---
-# Striking header background image, Ideal images are homogenous around the centre and contrasting to the text. Non-ideal images can use `title_guard`
-header_image: images/header.jpg
-#
-# When set true, uses video from custom_header_video.html partial, instead of header_image
-header_use_video: false
-#
-# Optional header logo. CSS: `#blog-logo`, with max-height defined, optimize to prevent scaling
-header_logo: images/logo.png
-#
-# Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: Lemmy.World #<br> Legal
-header_subheadline:  Terms of Service
-
-# Add a 'Go back to top' item to the navigation menu
-# Title: name of navigation menu entry
-# Weight (i. e. position in menu): none = no menu entry, first = add as first entry, last = ad as last entry
-nav_to_top_title: Return To Top
-nav_to_top_weight: last
+title: "Lemmy.World Legal & Help Center"
 ---
+
+
+> ## Welcome to the Lemmy.World Legal & Help Center!
+>
+> Please view the website sidebar for documentation in detail.
+>
+> **LAST REVISED:** {{< commit-date >}}
+
+Hello, World!
+
+Welcome to our Legal & Help Center. This page is made to be helpful to you. 
+
+This is a basic Lemmy.World placeholder text. It is our own lorem ipsum, with no superior quality. It just is, and it’s familiar. It’s familiar, because we just made it so, declared by pure badassery. Because it’s familiar, it’s enjoyable to experience. It’s a train of thought, an enjoyment of the words and the flow, maybe a placeholder maybe not, it’s been 5 months since Antik had pot. We deny, we accept, we read, but we may ignore; maybe a lot. No offense, we might be childish, maybe not.
+
+There was once a Belgian man known for a well shaven head, shining extraordinarily well before the sight of light on any ordinary night. Beside him was mighty Ruud, who looked at the Belgian man in confusion, but thought repeatedly screaming “Fuck you Jesse!” was a solution.
+
+The cactus lophophora williamsii is known for is psychedelic effects, and is perfectly awesome (and easy to access) to try and get high on. Trust me, or not, you’ll see some shit. The country I did this in, is, of course, not disclosed, which could have been any from a list of many. ;)
+
+At Lemmy.World, we really value users a lot. Like, a lot. What you say and complain about actually matters?! How come? We’re volunteers. We’re volunteers. We’re volunteers. And we still do everything we can. And we love you, and expect it back. Is that too much to ask? Come on, heh heh heh.
+
+I love trees. Do you love trees? What if I told you, trees could elevate you?
+
+![header](/images/header.jpg)
