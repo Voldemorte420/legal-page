@@ -23,4 +23,4 @@ At Lemmy.World, we really value users a lot. Like, a lot. What you say and compl
 
 I love trees. Do you love trees? What if I told you, trees could elevate you?
 
-![header](/images/header.png)
+![header](/images/header.jpg)
