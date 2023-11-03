@@ -1,18 +1,11 @@
 ---
 title: "Cookie Policy"
-weight: 1
-header_menu_title: "Cookie Policy"
-navigation_menu_title: "Cookie Policy"
-header_menu: true
-detailed_page_homepage_content: false
+weight: 4
 ---
-
-LAST REVISION: {{< commit-date >}}
-
 
 ## Cookie Policy
 
-This Cookie Policy ("**the Cookie Policy**") explains what cookies are and how they might be used when you visit www.lemmy.world ("**we,**""**us,**" "**our,**" "**the website,**" "**Lemmy.World,**" or "**LW**"). You should read this policy so you can understand what type of cookies we use, or the information we collect using cookies and how that information is used. Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies. For further information on how we use, store and keep your personal data secure, see our [Privacy Policy](https://legal.lemmy.world/privacy-policy-/). We do not store sensitive personal information, such as mailing addresses, account passwords, etc. in the cookies we use.
+This Cookie Policy ("**the Cookie Policy**") explains what cookies are and how they might be used when you visit <www.lemmy.world> ("**we,**""**us,**" "**our,**" "**the website,**" "**Lemmy.World,**" or "**LW**"). You should read this policy so you can understand what type of cookies we use, or the information we collect using cookies and how that information is used. Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies. For further information on how we use, store and keep your personal data secure, see our [Privacy Policy](https://legal.lemmy.world/privacy-policy-/). We do not store sensitive personal information, such as mailing addresses, account passwords, etc. in the cookies we use.
 
 Cookies means small files that are placed on your computer, mobile device or any other device by a website, containing details of your browsing history on that website among its many uses. Website refers to Lemmy.World, accessible from <https://www.lemmy.world>
 
@@ -24,13 +17,13 @@ You means the individual accessing or using the website, or a company, or any le
 
 Cookies can be "persistent" or "session" cookies. Persistent cookies remain on your personal computer or mobile device when you go offline, while session cookies are deleted as soon as You close your web browser. We use both session and persistent cookies for the purposes set out below:
 
-- **Necessary / Essential Cookies**  
-  **Type:** Session Cookies  
-  **Administered by:** Us  
+- **Necessary / Essential Cookies**
+  **Type:** Session Cookies
+  **Administered by:** Us
   **Purpose:** These cookies are essential to provide you with services available through the website and to enable you to use some of its features. They help to authenticate users and prevent fraudulent use of user accounts. Without these cookies, the services that you have asked for cannot be provided, and we only use these cookies to provide you with those services.
-- **Functionality Cookies**  
-  **Type:** Persistent Cookies  
-  **Administered by:** Us  
+- **Functionality Cookies**
+  **Type:** Persistent Cookies
+  **Administered by:** Us
   **Purpose:** These cookies allow us to remember choices You make when you use the website, such as remembering your login details or language preference. The purpose of these cookies is to provide you with a more personal experience and to avoid you having to re-enter your preferences every time you use the website.
 
 **Your Choices Regarding Cookies**
@@ -51,4 +44,4 @@ For any other web browser, please visit your web browser's official web pages.
 
 If you have any questions about this Cookie Policy, you can contact us by e-mail:
 
-- By email: info@lemmy.world
+- By email: <info@lemmy.world>
