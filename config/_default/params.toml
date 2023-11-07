@@ -23,7 +23,7 @@ showLineNumbers = false
 
 otherSearchableFields = ["Tags", "Categories", "CustomField"] # As they appear in frontmatter
 
-ga_analytics = 'G-THGRQDQMRW'
+# ga_analytics = 'G-THGRQDQMRW'
 
 # Defaults to true if not set
 # Enable copyRight Footer Stamp. Takes in attribution
